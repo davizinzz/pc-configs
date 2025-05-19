@@ -1,1 +1,17 @@
-nothing
+CPU (R$ 990):
+https://www.mercadolivre.com.br/processador-amd-ryzen-5-5600g-com-video-6-nucleos-12-fios-39ghz-am4/p/MLB18424403#polycard_client=search-nordic&searchVariation=MLB18424403&wid=MLB4976833748&position=13&search_layout=grid&type=product&tracking_id=dc1c11f7-63b3-40a5-9c5a-958b820903cb&sid=search
+
+MOTHERBOARD:
+https://www.mercadolivre.com.br/placa-me-a520m-ds3h-v2-ddr4-gigabyte-am4-preta/p/MLB24795298#polycard_client=search-nordic&searchVariation=MLB24795298&wid=MLB4707367116&position=2&search_layout=grid&type=product&tracking_id=603d0892-b23a-47ea-b3a9-91a4c467e5e1&sid=search
+
+RAM (X2):
+https://www.mercadolivre.com.br/memoria-ram-gammix-d10-preto-8gb-1-xpg-ax4u32008g16a-sb10/p/MLB19696184#polycard_client=search-nordic&searchVariation=MLB19696184&wid=MLB3254452386&position=20&search_layout=grid&type=product&tracking_id=bc86c9e0-ce91-4223-a689-8c30ec73aae1&sid=search
+
+
+Aquela_Fonte:
+https://www.mercadolivre.com.br/corsair-cv550-fonte-de-alimentaco-para-pc-550w-bivolt/p/MLB15556690#polycard_client=search-nordic&searchVariation=MLB15556690&wid=MLB5361188076&position=17&search_layout=grid&type=product&tracking_id=461c3b00-1b58-43d7-9e98-64fa9bd1422a&sid=search
+
+gabinete né?:
+https://www.mercadolivre.com.br/gabinete-gamer-hayom-aquario-com-4-cooler-fan-led-rgb/p/MLB41552994#polycard_client=search-nordic&searchVariation=MLB41552994&wid=MLB5228344202&position=5&search_layout=grid&type=product&tracking_id=db13c269-523d-4af6-9adb-09f41c43de72&sid=search
+
+total = 2.873
